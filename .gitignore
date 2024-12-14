@@ -1,0 +1,7 @@
+Encoder/.vs/
+Encoder/Debug/
+Encoder/Release/
+Decoder/.vs/
+Decoder/Debug/
+Decoder/Release/
+*.cmp
