@@ -1,5 +1,6 @@
 Purpose:
-	This project is an interesting application of block-based motion detection and compression in video-based communication industries including entertainment, security, defense etc. Here you are required to separate an input video into different layers based on motion characteristics - those that represent the foreground layers and the background layer. Each layer is then compressed differently according to input parameters provided. The theory taught in class dealt with computing motion vectors to help better compression of video, here we use it to segment a moving region and then use the same for compression. 
+	This project focuses on leveraging block-based motion detection to segment videos into distinct layers based on motion characteristics, separating dynamic foreground elements from the static background. The segmented layers are then compressed differently according to input parameters, optimizing storage and transmission efficiency.
+The purpose of this approach is to enhance video processing techniques for applications in industries such as entertainment, security, and defense, demonstrating how motion analysis can be used not only for better compression but also for dynamic video segmentation.
 
 Encoder compile:
 	Image.exe rgb_file N1 N2
