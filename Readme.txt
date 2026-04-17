@@ -1,6 +1,6 @@
 Purpose:
 	This project focuses on leveraging block-based motion detection to segment videos into distinct layers based on motion characteristics, separating dynamic foreground elements from the static background. The segmented layers are then compressed differently according to input parameters, optimizing storage and transmission efficiency.
-The purpose of this approach is to enhance video processing techniques for applications in industries such as entertainment, security, and defense, demonstrating how motion analysis can be used not only for better compression but also for dynamic video segmentation.
+The purpose of this approach is to enhance video processing techniques for applications in industries such as entertainment, demonstrating how motion analysis can be used not only for better compression but also for dynamic video segmentation.
 
 Encoder compile:
 	Image.exe rgb_file N1 N2
