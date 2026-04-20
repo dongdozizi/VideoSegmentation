@@ -8,6 +8,6 @@
     <LocalDebuggerCommand>
     </LocalDebuggerCommand>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
-    <LocalDebuggerCommandArguments>../../DATA/rgbs/3.rgb 0 10</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>../../DATA/rgbs/cut.rgb 0 8</LocalDebuggerCommandArguments>
   </PropertyGroup>
 </Project>
